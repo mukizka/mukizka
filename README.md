@@ -1,16 +1,24 @@
-## Hi there 👋
+![1500x500](https://github.com/user-attachments/assets/83dbc054-6035-4d21-bfa7-a85c2a5d86bd)
 
-<!--
-**mukizka/mukizka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
 
-Here are some ideas to get you started:
+### Come join us at elizaOS!
+If you want to make autonomous AI agents, come join us at [elizaOS](https://github.com/elizaOS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-01T01:43:42.460Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0x1b324Bfc7A0b93D621d8A85F3fF6375528bFae8D"
+    },
+    {
+      "chain": "solana",
+      "address": "5rZBMzhX4NiEwSGiJidacmY7HfGWKT41sE1PnpXBSLvG"
+    }
+  ]
+}
+WALLET-LINKING-END -->
+
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/shawmakesmagic)
